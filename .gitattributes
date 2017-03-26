@@ -1,0 +1,4 @@
+*.exe -diff -merge -text
+*.msu -diff -merge -text
+
+*.bat text eol=crlf
